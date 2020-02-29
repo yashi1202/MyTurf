@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622621559331",
+    "firebase_url": "https://locationtrackerfordrone-c6226.firebaseio.com",
+    "project_id": "locationtrackerfordrone-c6226",
+    "storage_bucket": "locationtrackerfordrone-c6226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622621559331:android:0f4d9ef34b91d430",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.locationtrackerfordrone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622621559331-2nv20h0kjnbo5rv88pdep2eguqmtinpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.locationtrackerfordrone",
+            "certificate_hash": "b3fc5b02aaa948c6017496b623530e11b6e8e988"
+          }
+        },
+        {
+          "client_id": "622621559331-32sdmmt487rblfu4h35tjv5kuqcsp1q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFwiyPPupjKtLzPiLH_sw_yrrtT-8nBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622621559331-32sdmmt487rblfu4h35tjv5kuqcsp1q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
